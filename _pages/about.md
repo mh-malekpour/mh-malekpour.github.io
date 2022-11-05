@@ -6,11 +6,11 @@ subtitle: CS Student @ <a href='https://www.topuniversities.com/universities/ami
 
 profile:
   align: right
-  image: avatar.jpg
+  image: avatar2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>+989123198422</p>
-    <p>Tehran, Iran</p>
+    <a href="mailto:mohammadhossein.malekpour@gmail.com">mohammadhossein.malekpour@gmail.com</a>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
